@@ -1,5 +1,5 @@
 <meta>
-    <info author="DeaD" name="HUD" type="script" version="1.0"></info>
+    <info author="Mani" name="HUD" type="script" version="1.0"></info>
         <script src="client.lua" type="client"></script>
         
 		<file src="files/star.png" type="client"></file>
