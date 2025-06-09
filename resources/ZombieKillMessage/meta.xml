@@ -1,8 +1,8 @@
 <meta>
-     <info author="Cocodrilo" type="script" name="Killmessage Zombie" version="1.3" description="Simple script shows a killmessage at killing a zombie." />
+     <info author="Mani" type="script" name="Killmessage Zombie" version="1.3" description="Simple script shows a killmessage at killing a zombie." />
      <script src="message_server.lua" />
 </meta>
 <meta>
-     <info author="Cocodrilo" type="script" name="Killmessage Zombie" version="1.3" description="Simple script shows a killmessage at killing a zombie." />
+     <info author="Mani" type="script" name="Killmessage Zombie" version="1.3" description="Simple script shows a killmessage at killing a zombie." />
      <script src="message_server.lua" />
 </meta>
