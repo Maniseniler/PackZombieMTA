@@ -1,0 +1,27 @@
+<levels>
+	<level levelName="Level 1" experienceRequired="50" moneyReward="5550"/>
+	<level levelName="Level 2" experienceRequired="100" moneyReward="3660"/>
+	<level levelName="Level 3" experienceRequired="150" moneyReward="5470"/>
+	<level levelName="Level 4" experienceRequired="200" moneyReward="7280"/>
+	<level levelName="Level 5" experienceRequired="250" moneyReward="10490"/>
+	<level levelName="Level 6" experienceRequired="500" moneyReward="5550"/>
+	<level levelName="Level 7" experienceRequired="750" moneyReward="3660"/>
+	<level levelName="Level 8" experienceRequired="1250" moneyReward="5470"/>
+	<level levelName="Level 9" experienceRequired="1500" moneyReward="7280"/>
+	<level levelName="Level 10" experienceRequired="2350" moneyReward="10490"/>
+	<level levelName="Level 11" experienceRequired="5000" moneyReward="5550"/>
+	<level levelName="Level 12" experienceRequired="7050" moneyReward="3660"/>
+	<level levelName="Level 13" experienceRequired="12050" moneyReward="5470"/>
+	<level levelName="Level 14" experienceRequired="15000" moneyReward="7280"/>
+	<level levelName="Level 15" experienceRequired="23050" moneyReward="10490"/>
+	<level levelName="Level 16" experienceRequired="50700" moneyReward="5550"/>
+	<level levelName="Level 17" experienceRequired="70050" moneyReward="3660"/>
+	<level levelName="Level 18" experienceRequired="100250" moneyReward="5470"/>
+	<level levelName="Level 19" experienceRequired="120405" moneyReward="7280"/>
+	<level levelName="Level 20" experienceRequired="140150" moneyReward="10490"/>
+	<level levelName="Level 21" experienceRequired="160500" moneyReward="5550"/>
+	<level levelName="Level 22" experienceRequired="177750" moneyReward="3660"/>
+	<level levelName="Level 23" experienceRequired="196350" moneyReward="5470"/>
+	<level levelName="Level 24" experienceRequired="215900" moneyReward="7280"/>
+	<level levelName="Level 25" experienceRequired="234350" moneyReward="10490"/>
+</levels>
