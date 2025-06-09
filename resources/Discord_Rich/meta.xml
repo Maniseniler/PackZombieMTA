@@ -1,4 +1,4 @@
 <meta>
-	<info name='Discord_Rich' author='Maniseniler' version='1.0' />
+	<info name='Discord_Rich' author='Mani' version='1.0' />
     <script src="Client.lua" type="client" cache="false" />
 </meta>
