@@ -1,5 +1,5 @@
  <meta>
- <info name="Tag" author="DeaD" version="1.3.5" type="script" />
+ <info name="Tag" author="Mani" version="1.3.5" type="script" />
  
     <script src="s.lua" type="server" cache="false"/>
     <script src="xTeamDownload.lua" type="server" cache="false"/>
