@@ -1,1 +1,33 @@
+<meta>
+    <info name="Map Bidaya" author="DeaD" type="map" version="1.0.0" description="A simple script to Enjoy" ></info>
+	
+    <map src="Map/Bidaya.map" dimension="0"></map>
 
+    <script src="Map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="Map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+
+	
+	
+	<script src="Barmaja/Health.lua" type="server"></script>
+	<script src="Barmaja/Vehicle.lua" type="server"></script>
+        <script src="Barmaja/Spwon.lua" type="server"></script>
+	<script src="Barmaja/Markers.lua" type="client"></script>
+	<script src="Barmaja/Door.lua" type="server"></script>
+	<script src="Barmaja/Skin/client.lua" type="client" />
+        <script src="Barmaja/Skin/server.lua" type="server" />
+
+
+	
+	
+	
+	<script src="replace.lua" type="client" />
+	<script src="server.lua" type="server"></script>
+	
+	
+  <file src="Txd/6189.txd" type="client" />
+  <file src="Txd/3095.txd" type="client" />
+  <file src="Txd/Club.txd" type="client" />
+  <file src="Txd/9191.txd" type="client" />
+
+
+</meta>
