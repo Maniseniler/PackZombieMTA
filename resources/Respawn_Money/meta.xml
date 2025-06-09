@@ -1,1 +1,4 @@
-
+<meta>
+	<info name="Money Drops" author="DeaD"   version="1.0.1" type="script" description="A simple script to Enjoy" />
+	<script src="mysterybag.lua" type="server"/>
+</meta>
