@@ -1,1 +1,4 @@
-
+<meta>
+<info author="DeaD" type="script" version="1.0.0" name="Team_Save" description="A simple script to save and load teams." />
+<script src="TeamSave.lua" type="server" />  
+</meta>
