@@ -1,5 +1,5 @@
 <meta>
-	<info name="Kill Message System" author="DeaD" type="script" version="2.0.1"/>
+	<info name="Kill Message System" author="Mani" type="script" version="2.0.1"/>
 	<script src="utils/textlib.lua" type="client"/>
 	<script src="utils/imagelib.lua" type="client"/>
 	<script src="dxcolor_c.lua" type="client"/>
