@@ -5,7 +5,7 @@
 		<setting name="*Speed" value="[1]" />
 	</settings>
 	
-	<info author="DeaD" name="Foursan Al 3araB" version="3.0.1" type="script" description="Zombie Infestation script" edf:definition="edf/zombies.edf"/>/>
+	<info author="Mani" name="Foursan Al 3araB" version="3.0.1" type="script" description="Zombie Infestation script" edf:definition="edf/zombies.edf"/>/>
 	<script src="zombie_server.lua" />
 	<script src="zombie_client.lua" type="client"/>
 	<file src="zombiewood.png" />
