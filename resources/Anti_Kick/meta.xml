@@ -1,1 +1,4 @@
-
+<meta>
+<info name="Anti Kick" author="DeaD" version="1.3" type="script" />
+<script src="server.lua" type="server" />
+</meta>
