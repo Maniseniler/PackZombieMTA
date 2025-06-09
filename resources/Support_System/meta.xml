@@ -1,5 +1,5 @@
 <meta>
-	<info author="DeaD" type="script" version="1.5" name="Support_System" addon="Wnash"/>
+	<info author="Mani" type="script" version="1.5" name="Support_System" addon="Wnash"/>
 	<script src="Client.lua" type="client" cache="false"/>
 	<script src="Server.lua" type="server" />
 	<script src="Mute/client.lua" type="client" cache="false" />
