@@ -76,10 +76,6 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 Please ensure your code adheres to MTA scripting best practices and is well-commented.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or support, please open an issue on this repository.
