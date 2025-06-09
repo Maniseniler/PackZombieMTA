@@ -4,6 +4,7 @@ This is the initial release of the MTA Zombie Apocalypse Mod Pack, a comprehensi
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Maniseniler/PackZombieMTA)](https://github.com/Maniseniler/PackZombieMTA/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: Lua](https://img.shields.io/badge/Language-Lua-blue?logo=lua)](https://www.lua.org/)
 
 ## Description
 
@@ -26,7 +27,8 @@ Fight hordes of the undead, earn rewards, level up your character, build and man
 
 The MTA Zombie Apocalypse Mod Pack is developed primarily using:
 
-[![Lua](https://placehold.co/100x30/A00000/ffffff?text=Lua)](https://wiki.multitheftauto.com/wiki/Lua)
+[![Language: Lua](https://img.shields.io/badge/Language-Lua-blue?logo=lua)](https://www.lua.org/)
+
 
 ## Included Mods
 
