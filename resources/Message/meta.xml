@@ -1,5 +1,5 @@
 <meta>
-<info author="DeaD" name="Private chat system" type="script" version="2.0" description="Professional private chat system for chatting with players, The script has been created by MR.GRAND ." />
+<info author="Mani" name="Private chat system" type="script" version="2.0" description="Professional private chat system for chatting with players, The script has been created by MR.GRAND ." />
 <script src="Client.lua" type="client" />
 <script src="Server.lua"/>
 <file src="Wakeup.mp3" />
