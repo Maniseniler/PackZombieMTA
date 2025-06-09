@@ -1,4 +1,4 @@
 <meta>
-<info author="DeaD"  name="Jump Script" version="1.0.0" type="script" />
+	<info author="Mani"  name="Jump Script" version="1.0.0" type="script" />
 	<script src="Client.lua" type="client"/>
 </meta>
