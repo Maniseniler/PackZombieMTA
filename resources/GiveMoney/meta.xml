@@ -1,5 +1,5 @@
 <meta>
-	<info author="DeaD" type="script" description="Zombie Money" version="1.0.1"/>
+	<info author="Mani" type="script" description="Zombie Money" version="1.0.1"/>
 
 	<script src="Zombie-Money.lua"type="client" cache="false" />
 	
