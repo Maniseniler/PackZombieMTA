@@ -25,13 +25,6 @@ Fight hordes of the undead, earn rewards, level up your character, build and man
 * **User-Friendly UI Enhancements:** Custom HUD, chat, and message systems.
 * **Discord Integration:** Rich presence support to showcase your server activity.
 
-## Technologies Used
-
-The MTA Zombie Apocalypse Mod Pack is developed primarily using:
-
-[![Language: Lua](https://img.shields.io/badge/Language-Lua-blue?logo=lua)](https://www.lua.org/)
-
-
 ## Included Mods
 
 This pack includes the following custom resources, many prefixed with `D1_` for easy identification and management:
