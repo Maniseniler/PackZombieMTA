@@ -1,5 +1,5 @@
 <meta>
-  <info name="House System" author="DeaD" type="script" version="1.5.0" description="House system (building/managing)" />
+  <info name="House System" author="Mani" type="script" version="1.5.0" description="House system (building/managing)" />
   
   <script src="core/core_server.lua" type="server" />
   <script src="core/core_client.lua" type="client" />
