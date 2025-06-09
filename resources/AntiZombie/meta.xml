@@ -1,1 +1,7 @@
-
+<meta>
+     <info version="1.0.1" author="DeaD" type="script" name="Zombie safe area"  />
+	 <script src="anti-zombie-area.lua" type="server" />
+           <map src="greenzones.map"/>
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>
