@@ -1,5 +1,5 @@
 <meta>
-    <info type="script" description="Car parts" author="Brothers Host" version="1.0.0" name="parts" />
+    <info type="script" description="Car parts" author="Mani" version="1.0.0" name="parts" />
 	
     <script src="replace.lua" type="client" />
 	<script src="C_Sounds.lua" type="client"/>
