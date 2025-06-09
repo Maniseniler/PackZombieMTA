@@ -1,5 +1,5 @@
 <meta>
-     <info name="Save System" author="DeaD" type="Script" version="1.0.0" description="A simple script to Enjoy" ></info>
+     <info name="Save System" author="Mani" type="Script" version="1.0.0" description="A simple script to Enjoy" ></info>
 	<script src="client.lua" type="client" />
 	<script src="Server.luac" type="server" />
 </meta>
