@@ -1,1 +1,18 @@
+<meta>
+	<info name="Shop Panel System" author="DeaD" version="1.2" type="script"  />
+	<script src="shopPanel_server.lua" type="server"/>
+	<script src="shopPanel_client.lua" type="client"/>
 
+	<file src="weapons/22.png"/>
+	<file src="weapons/23.png"/>
+	<file src="weapons/24.png"/>
+	<file src="weapons/25.png"/>
+	<file src="weapons/26.png"/>
+	<file src="weapons/27.png"/>
+	<file src="weapons/28.png"/>
+	<file src="weapons/29.png"/>
+	<file src="weapons/30.png"/>
+	<file src="weapons/31.png"/>
+	<file src="weapons/32.png"/>
+	<file src="weapons/icon.png"/>
+</meta>
