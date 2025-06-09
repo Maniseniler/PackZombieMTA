@@ -1,1 +1,6 @@
-
+<meta>
+<info author="DeaD" version="1.0.0" type="script" name="Warp Panel"/> 
+  <script src="Admin_Client.lua" type="client" cache="false" />
+	<file src="Font.ttf" />
+	<file src="Font1.ttf" />
+</meta>
