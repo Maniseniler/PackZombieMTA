@@ -1,5 +1,5 @@
 <meta>
-    <info author="DeaD" type="script" version="1.0.0" name="Map" description="A simple script to Enjoy" />
+    <info author="Mani" type="script" version="1.0.0" name="Map" description="A simple script to Enjoy" />
     <script src="Music.lua" type="client" />
     <file src="Son.mp3" />
     
