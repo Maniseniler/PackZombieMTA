@@ -1,1 +1,81 @@
+<meta>
+    <info type="script" description="Car parts" author="Brothers Host" version="1.0.0" name="parts" />
+	
+    <script src="replace.lua" type="client" />
+	<script src="C_Sounds.lua" type="client"/>
+	<script src="C_Replace.lua" type="client"/>
+	<script src="C_shader_radar.lua" type="client"/>
+    <script src="C_shader_siteM16.lua" type="client"/>
+	<script src="Weapon-STID.lua" type="client"/>
 
+
+    <script src="S_FadeCam.lua" type="server"/>
+    <script src="S_KDR.sfx" type="server"/>
+    <script src="S_SetData.lua" type="server"/>
+	
+    <file src="data/287.txd"></file>
+    <file src="data/287.dff"></file>
+
+	
+	<file src="data/patriot.txd"></file>
+	<file src="data/patriot.dff"></file>
+	
+	<file src="shader/texreplace.fx"/>
+
+    <file src="hud/radardisc.png"/>
+    <file src="hud/siteM16.png"/>
+
+    <file src="sounds/wasted.mp3" />	   
+    <file src="sounds/weap/AK-47.mp3" />
+    <file src="sounds/weap/Colt45.mp3" />
+    <file src="sounds/weap/Deagle.mp3" />
+    <file src="sounds/weap/Silenced.mp3" />
+    <file src="sounds/weap/Shotgun.mp3" />   
+    <file src="sounds/weap/Sawed-Off.mp3" />   
+    <file src="sounds/weap/Combat Shotgun.mp3" />   
+    <file src="sounds/weap/UZI.mp3" />  
+    <file src="sounds/weap/tec9.mp3" />  
+    <file src="sounds/weap/MP5.mp3" />   
+    <file src="sounds/weap/M4.mp3" />   
+    <file src="sounds/weap/Rifle.mp3" />   
+    <file src="sounds/weap/Sniper.mp3" />
+
+	    
+	  
+    <file src="models/weap/ak47.txd" />
+	<file src="models/weap/ak47.dff" />
+	
+    <file src="models/weap/colt.txd" />
+	<file src="models/weap/colt.dff" />
+	
+    <file src="models/weap/m4.txd" />
+    <file src="models/weap/m4.dff" />
+	
+    <file src="models/weap/magnum.txd" />
+	<file src="models/weap/magnum.dff" />
+	
+    <file src="models/weap/mp5.txd" />
+	<file src="models/weap/mp5.dff" />
+	
+    <file src="models/weap/off.txd" />
+	<file src="models/weap/off.dff" />
+	
+    <file src="models/weap/shotgun.txd" />
+	<file src="models/weap/shotgun.dff" />
+	
+    <file src="models/weap/sniper.txd" />
+	<file src="models/weap/sniper.dff" />
+	
+    <file src="models/weap/spaz.txd" />
+	<file src="models/weap/spaz.dff" />
+	
+    <file src="models/weap/uzi.txd" />
+	<file src="models/weap/uzi.dff" />
+
+	<file src="models/weap/silen.txd" />
+	<file src="models/weap/silen.dff" />
+	
+</meta>
+
+
+        
