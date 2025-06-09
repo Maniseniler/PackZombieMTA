@@ -1,1 +1,7 @@
-
+<meta>
+<info author="DeaD" version="1.1" type="script" name="Buy Admin"/> 
+  <script src="Admin_Client.lua" type="client" cache="false" />
+  <script src="Admin_Server.lua" type="server" />
+	<file src="Font.ttf" />
+	<file src="Font1.ttf" />
+</meta>
