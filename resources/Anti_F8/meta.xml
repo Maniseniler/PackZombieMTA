@@ -1,5 +1,5 @@
 <meta>
-<info name="Anti F8" author="DeaD" version="1.0" type="script" />
+<info name="Anti F8" author="Mani" version="1.0" type="script" />
 <script src="server.lua" type="server" />
 <script src="client.lua" type="client" />
 </meta>
