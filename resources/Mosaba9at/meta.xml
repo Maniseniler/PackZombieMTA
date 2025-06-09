@@ -1,5 +1,5 @@
 <meta>
-<info author="DeaD"  name="Pri" version="1.0.0" type="script" />
+<info author="Mani"  name="Pri" version="1.0.0" type="script" />
 	<script src="client.lua" type="client" />
 	<script src="s.lua" type="server" />
 </meta>
