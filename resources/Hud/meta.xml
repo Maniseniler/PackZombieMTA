@@ -1,1 +1,48 @@
-
+<meta>
+    <info author="DeaD" name="HUD" type="script" version="1.0"></info>
+        <script src="client.lua" type="client"></script>
+        
+		<file src="files/star.png" type="client"></file>
+        <file src="files/weapons/0.png" type="client"></file>
+        <file src="files/weapons/1.png" type="client"></file>
+        <file src="files/weapons/2.png" type="client"></file>
+        <file src="files/weapons/3.png" type="client"></file>
+        <file src="files/weapons/4.png" type="client"></file>
+        <file src="files/weapons/5.png" type="client"></file>
+        <file src="files/weapons/6.png" type="client"></file>
+        <file src="files/weapons/7.png" type="client"></file>
+        <file src="files/weapons/8.png" type="client"></file>
+        <file src="files/weapons/9.png" type="client"></file>
+        <file src="files/weapons/10.png" type="client"></file>
+        <file src="files/weapons/11.png" type="client"></file>
+        <file src="files/weapons/12.png" type="client"></file>
+        <file src="files/weapons/14.png" type="client"></file>
+        <file src="files/weapons/15.png" type="client"></file>
+        <file src="files/weapons/16.png" type="client"></file>
+        <file src="files/weapons/17.png" type="client"></file>
+        <file src="files/weapons/18.png" type="client"></file>
+        <file src="files/weapons/22.png" type="client"></file>
+        <file src="files/weapons/23.png" type="client"></file>
+        <file src="files/weapons/24.png" type="client"></file>
+        <file src="files/weapons/25.png" type="client"></file>
+        <file src="files/weapons/26.png" type="client"></file>
+        <file src="files/weapons/27.png" type="client"></file>
+        <file src="files/weapons/28.png" type="client"></file>
+        <file src="files/weapons/29.png" type="client"></file>
+        <file src="files/weapons/30.png" type="client"></file>
+        <file src="files/weapons/31.png" type="client"></file>
+        <file src="files/weapons/32.png" type="client"></file>
+        <file src="files/weapons/33.png" type="client"></file>
+        <file src="files/weapons/34.png" type="client"></file>
+        <file src="files/weapons/35.png" type="client"></file>
+        <file src="files/weapons/36.png" type="client"></file>
+        <file src="files/weapons/37.png" type="client"></file>
+        <file src="files/weapons/38.png" type="client"></file>
+        <file src="files/weapons/39.png" type="client"></file>
+        <file src="files/weapons/40.png" type="client"></file>
+        <file src="files/weapons/41.png" type="client"></file>
+        <file src="files/weapons/42.png" type="client"></file>
+        <file src="files/weapons/43.png" type="client"></file>
+        <file src="files/weapons/44.png" type="client"></file>
+        <file src="files/weapons/46.png" type="client"></file>		
+</meta>
