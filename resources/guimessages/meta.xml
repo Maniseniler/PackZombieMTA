@@ -1,1 +1,7 @@
-
+<meta>
+	<info author = "Sebastian 'seb' Cronberg" name = "guimessages" version = "1.0.0" type = "misc" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<export function="outputClient" type="client" />
+	<export function="outputServer" type="server" />
+</meta>
