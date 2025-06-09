@@ -1,5 +1,5 @@
 <meta>
-	<info author="DeaD" version="2.0" type="script" name="AFK System" description="Anti Away From Keyboard" />
+	<info author="Mani" version="2.0" type="script" name="AFK System" description="Anti Away From Keyboard" />
 	<script src="Server.lua" type="server" />
 	<script src="Client.lua" type="client" />
 	<file src="afk.png" />
