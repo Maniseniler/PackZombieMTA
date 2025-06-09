@@ -1,5 +1,5 @@
 <meta>
-	<info name="worldjob" author="Cat" type="script" version="0.1" />
+	<info name="worldjob" author="Mani" type="script" version="0.1" />
 	<script src="client.lua" type="client" cache="false" />
 	<script src="server.lua" type="server" />
 </meta>
