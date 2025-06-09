@@ -1,5 +1,5 @@
 <meta>	
-<info author="booo" name="scoreboard_PlayTime" version="1.2" type="script" description="fix it save time/account" />
+<info author="Mani" name="scoreboard_PlayTime" version="1.2" type="script" description="fix it save time/account" />
 <script src="hou.lua" type="server" />
 <script src="c.lua" type="client"/>
 <script src="server.lua" type="server" />
