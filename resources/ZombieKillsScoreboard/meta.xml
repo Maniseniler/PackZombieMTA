@@ -1,1 +1,4 @@
-
+<meta>
+     <info author="Cocodrilo" type="script" name="ZombieKills_scoreboard" version="1.3" description="Simple script counts zombie kills and show it in scoreboard." />
+     <script src="zombiekill_server.lua" />
+</meta>
